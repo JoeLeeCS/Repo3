@@ -1,10 +1,1 @@
- Volume in drive F is HDD2011-1
- Volume Serial Number is F5D8-53D0
-
- Directory of F:\Apps\Test Projects\MyProject
-
-26/10/2020  11:29 PM    <DIR>          .
-26/10/2020  11:29 PM    <DIR>          ..
-26/10/2020  11:29 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  57,042,571,264 bytes free
+change it
